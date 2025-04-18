@@ -1,0 +1,1 @@
+// models/inquiryModel.js

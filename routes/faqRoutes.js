@@ -1,0 +1,1 @@
+// routes/faqRoutes.js
